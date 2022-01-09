@@ -2,8 +2,8 @@ import styled from 'styled-components'
 
 import UserPanel from './UserPanel';
 import SystemPanel from './SystemPanel';
-import Flex from './../../../app/styles/Flex';
-import Splitter from './../../../app/styles/Splitter';
+import Flex from '../../../app/styles/Flex';
+import Splitter from '../../../app/styles/Splitter';
 
 interface Props {}
 
