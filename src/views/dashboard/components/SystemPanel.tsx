@@ -2,9 +2,9 @@ import React from 'react'
 import styled from 'styled-components'
 
 
-import Flex from './../../../app/styles/Flex'
+import Flex from '../../../app/styles/Flex'
 import { Options, SYSTEM_CARDS } from '../constants';
-import Toggle from './../../../app/components/Toggle';
+import Toggle from '../../../app/components/Toggle';
 import Table from '../../../app/components/Table';
 import Data from '../../../app/config/DATA.json'
 

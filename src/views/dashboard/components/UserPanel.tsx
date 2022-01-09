@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
-import Flex from './../../../app/styles/Flex';
-import Splitter from './../../../app/styles/Splitter';
+import Flex from '../../../app/styles/Flex';
+import Splitter from '../../../app/styles/Splitter';
 
 interface Props {}
 

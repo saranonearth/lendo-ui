@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import { Options } from '../../views/dasahboard/constants';
+import { Options } from '../../views/dashboard/constants';
 import Flex from '../styles/Flex';
 
 interface Props {

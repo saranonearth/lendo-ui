@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 
 import Flex from './../styles/Flex';
-import { AssetDataType } from '../../views/dasahboard/types'
+import { AssetDataType } from '../../views/dashboard/types'
 import {USDC, USDT, DAI, wBTC, MATIC} from '../../assets'
 
 interface Props {
