@@ -1,0 +1,66 @@
+{
+    "supply_assets": [
+        {
+            "name": "USDC",
+            "icon": "USDC",
+            "APY": "3.61",
+            "wallet": "0"
+        },
+        {
+            "name": "DAI",
+            "icon": "DAI",
+            "APY": "5.81",
+            "wallet": "2.34"
+        },
+        {
+            "name": "USDT",
+            "icon": "USDT",
+            "APY": "3.31",
+            "wallet": "0"
+        },
+        {
+            "name": "MATIC",
+            "icon": "MATIC",
+            "APY": "1.31",
+            "wallet": "0"
+        },
+        {
+            "name": "wBTC",
+            "icon": "wBTC",
+            "APY": "0.91",
+            "wallet": "0"
+        }
+    ],
+    "borrow_assets": [
+        {
+            "name": "USDC",
+            "icon": "USDC",
+            "APY": "2.41",
+            "wallet": "0"
+        },
+        {
+            "name": "DAI",
+            "icon": "DAI",
+            "APY": "3.81",
+            "wallet": "2.34"
+        },
+        {
+            "name": "USDT",
+            "icon": "USDT",
+            "APY": "2.61",
+            "wallet": "0"
+        },
+        {
+            "name": "MATIC",
+            "icon": "MATIC",
+            "APY": "0.62",
+            "wallet": "0"
+        },
+        {
+            "name": "wBTC",
+            "icon": "wBTC",
+            "APY": "0.21",
+            "wallet": "0"
+        }
+    ]
+}
